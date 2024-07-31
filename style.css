@@ -31,18 +31,18 @@ body{
     left: 0;
     z-index: 500;
     width: 100%;
-    height: 40px;
+    height: 50px;
     background-color:darkgreen;
 }
 
-#tabs-tops a{
+#tabs-top a{
     float: left;
     display: block;
-    width: 40%;
-    height: 35px;
+    width: 33%;
+    height: 53px;
     font-weight: 700;
     color: white;
-    text-align: center;
+    text-align:center;
     text-decoration: none;
     padding-top: 12px;
 }
@@ -59,8 +59,8 @@ body{
     position: fixed;
     bottom: 0;
     left: 0;
-    z-index: 800;
-    width: 100;
+    z-index: 500;
+    width: 100%;
     height: 40px;
     background-color: forestgreen;
 }
