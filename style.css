@@ -82,6 +82,7 @@ body{
 #main{
     margin-top: 119px;
     background: url('images/map-blur.png');
+    background-size: cover;
     background-repeat: repeat-y;
 }
 
@@ -126,7 +127,9 @@ a.info-box{
 .info-box img.right{
     float: right;
     margin-top: 25px;
-    height: 40x;
+    height: 45px;
+}
+
 }
 
 /*============ INFO BOX FULL ==============*/
